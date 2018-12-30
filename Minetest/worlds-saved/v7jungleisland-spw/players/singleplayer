@@ -1,0 +1,196 @@
+extended_attributes = """
+{"sethome:home":"(43.473999023438,1.5,-31.026000976562)"}
+
+"""
+breath = 11
+position = (281.62,15,-9.42)
+pitch = 18.39
+hp = 19
+name = singleplayer
+yaw = 52.84
+version = 1
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel 1 20817
+Item default:shovel_steel 1 17611
+Item default:pick_mese 1 24321
+Item default:torch 48
+Item moreblocks:super_glow_glass 41
+Item farming:bread 20
+Item default:apple 76
+Item moreblocks:stone_tile 46
+Item default:pick_steel
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:cobble 78
+Item default:pick_steel
+Item default:coal_lump 62
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag2 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag3 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag4 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag4contents 24
+Width 0
+Item bones:bones
+Item default:obsidian 82
+Item default:stone 14
+Empty
+Item moreblocks:stone_tile 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:silver_sand 64
+Empty
+Item default:sand 25
+Item default:gravel 62
+Item moreblocks:stone_tile 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:silver_sand 99
+Item default:dirt 99
+Item technic:marble 86
+Item technic:granite 16
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+EndInventoryList
+List bag1contents 24
+Width 0
+Item default:pick_steel
+Item default:shovel_bronze 1 49686
+Item default:axe_steel 1 6916
+Item default:torch 67
+Item default:obsidian_glass 36
+Item default:ladder_wood 63
+Item default:jungletree 84
+Item vines:shears 1 39240
+Item default:pick_steel
+Item default:shovel_steel 1 48642
+Item default:pick_mese 1 121
+Item default:coal_lump 99
+Item default:glass 87
+Empty
+Item default:steel_ingot 35
+Item boats:boat
+Item default:pick_steel
+Item moreores:pick_mithril 1 23400
+Item default:pick_steel 1 22591
+Item default:pick_steel 1 13468
+Item default:bronze_ingot 11
+Empty
+Item bucket:bucket_water
+Item bucket:bucket_water
+EndInventoryList
+List bag3contents 24
+Width 0
+Item default:coal_lump 99
+Empty
+Item default:mese_crystal 38
+Item moreores:mithril_lump 11
+Item default:diamond 38
+Empty
+Item default:flint 9
+Item technic:uranium_lump 3
+Item default:coal_lump 99
+Item default:iron_lump 90
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:tin_lump 73
+Item default:iron_lump 99
+Item default:gold_lump 43
+Item technic:chromium_lump 26
+Item moreores:silver_lump 35
+Item technic:lead_lump 78
+Item technic:zinc_lump 20
+Item default:copper_lump 81
+EndInventoryList
+List bag2contents 24
+Width 0
+Item default:ladder_wood 99
+Item default:fence_junglewood 3
+Item default:sign_wall_wood 8
+Item default:torch 21
+Item moreblocks:super_glow_glass 7
+Item pipeworks:mese_filter
+Empty
+Item fire:flint_and_steel 1 6000
+Item homedecor:plastic_sheeting 54
+Item default:tree 71
+Item screwdriver:screwdriver 1 20069
+Item bushes:basket_empty 8
+Item default:ladder_wood 80
+Item pipeworks:autocrafter 2
+Item compass:compass 2
+Empty
+Item default:steel_ingot 99
+Item default:stick 89
+Item technic:treetap 1 23751
+Item default:chest 3
+Item default:furnace 30
+Empty
+Item travelnet:elevator
+Empty
+EndInventoryList
+EndInventory

@@ -1,0 +1,88 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+position = (-2569.39,25,311.75)
+pitch = 27.19
+hp = 20
+name = singleplayer
+yaw = 91.2
+version = 1
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel 1 48412
+Item default:shovel_bronze 1 18746
+Item default:axe_steel 1 10920
+Item default:torch 64
+Item moreblocks:super_glow_glass 34
+Item default:grass_1 2
+Item default:sand 2
+Item default:cobble 11
+Item default:pick_steel
+Empty
+Empty
+Empty
+Item default:ladder_wood 57
+Empty
+Item default:dirt 68
+Item moreblocks:stone_tile 99
+Item default:pick_steel
+Empty
+Item default:pick_mese 1 1089
+Item default:coal_lump 52
+Item default:mese_crystal 12
+Item default:apple 13
+Empty
+Item moreblocks:stone_tile 98
+Item default:pick_steel
+Item default:tree 51
+Item default:stick 49
+Item default:bronze_ingot 15
+Item default:steel_ingot 73
+Item farming:bread 13
+Item travelnet:elevator
+Item moreblocks:stone_tile 35
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

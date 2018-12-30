@@ -1,0 +1,196 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+position = (-217.22,-75,185.42)
+pitch = 43.99
+hp = 19
+name = singleplayer
+yaw = 1.57999
+version = 1
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel 1 15288
+Item moreores:shovel_mithril 1 10872
+Item technic:mining_drill_mk3_5 1 11616 "\u0001\u0002return {[\"charge\"] = 534800, [\"mode\"] = 5}\u0003"
+Item default:ladder_wood 45
+Item bobblocks:block 4
+Item dye:orange 15
+Empty
+Item default:obsidian_glass 34
+Item default:pick_mese 1 13673
+Item default:shovel_bronze
+Item bushes:basket_empty 25
+Item default:torch 16
+Item pipeworks:tube_1 6
+Item dye:vermilion 3
+Item homedecor:plastic_sheeting 70
+Item moreblocks:stone_tile 42
+Item technic:brass_ingot 61
+Item default:steel_ingot 48
+Item dye:red
+Item default:glass 88
+Item mesecons_switch:mesecon_switch_off
+Item default:mossycobble 2
+Item default:wood 37
+Item default:dirt 98
+Empty
+Item technic:vacuum 1 1 "\u0001\u0002return {[\"charge\"] = 10000}\u0003"
+Item flowers:tulip 8
+Item moreblocks:super_glow_glass 40
+Item default:sand 64
+Item moretrees:sequoia_trunk 76
+Item default:dirt 99
+Item default:cobble 94
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Item default:steel_ingot
+Empty
+Empty
+Empty
+Item default:steel_ingot
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag2 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag3 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag4 1
+Width 0
+Item unified_inventory:bag_large
+EndInventoryList
+List bag3contents 24
+Width 0
+Item default:mese 5
+Empty
+Empty
+Empty
+Empty
+Item default:flint 4
+Item default:mese_crystal 48
+Item default:diamond 51
+Item default:coal_lump 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:coal_lump 11
+Item default:iron_lump 9
+Item moreores:silver_lump
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List bag4contents 24
+Width 0
+Item default:tree 27
+Item technic:granite 92
+Item default:mossycobble 19
+Empty
+Empty
+Empty
+Item moreblocks:stone_tile 99
+Item moreblocks:stone_tile 99
+Item default:obsidian 79
+Item default:gravel 84
+Empty
+Empty
+Empty
+Item default:cobble 99
+Item moreblocks:stone_tile 99
+Empty
+Item default:dirt 81
+Item technic:marble 36
+Empty
+Empty
+Empty
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+EndInventoryList
+List bag1contents 24
+Width 0
+Item default:pick_steel
+Empty
+Empty
+Empty
+Empty
+Empty
+Item boats:boat
+Item default:mese_crystal 25
+Empty
+Empty
+Item default:axe_steel 1 2548
+Empty
+Empty
+Empty
+Item default:coal_lump 99
+Item default:steel_ingot 99
+Empty
+Empty
+Item screwdriver:screwdriver
+Item default:glass 99
+Item default:apple 54
+Empty
+Item bucket:bucket_water
+Item bucket:bucket_water
+EndInventoryList
+List bag2contents 24
+Width 0
+Item technic:treetap
+Item technic:treetap
+Empty
+Item default:sign_wall_wood 3
+Item default:stick 99
+Item default:pick_mese
+Item default:pick_diamond
+Item travelnet:elevator 2
+Item vines:shears 1 320
+Item default:axe_mese
+Empty
+Item default:fence_wood 18
+Item default:torch 99
+Item default:pick_mese
+Item default:pick_diamond
+Item compass:compass 89
+Empty
+Item farming:hoe_steel 1 7238
+Empty
+Item default:ladder_wood 99
+Item default:obsidian_glass 99
+Item default:pick_mese
+Empty
+Item pipeworks:autocrafter 3
+EndInventoryList
+EndInventory

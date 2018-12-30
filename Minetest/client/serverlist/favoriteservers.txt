@@ -1,0 +1,6 @@
+[server]
+Red Cat Creative
+red.cat5.tv
+30000
+Creative stuff only.
+

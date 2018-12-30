@@ -1,0 +1,29 @@
+selected_world_path = /storage/emulated/0/Minetest/worlds/singleplayerworld
+screenH = 1080
+screenW = 1776
+name = Xiong
+gui_scaling = 0.85
+fast_move = false
+noclip = false
+remote_port = 30000
+address = red.cat5.tv
+show_debug = false
+debug_log_level = none
+world_config_selected_mod = 77
+
+#    Controls length of day/night cycle.
+#    Examples: 72 = 20min, 360 = 4min, 1 = 24hour, 0 = day/night/whatever stays unchanged.
+#    type: int
+time_speed = 0
+
+free_move = false
+mg_name = v6
+main_menu_technical_settings = false
+basic_privs = interact, shout
+default_privs = interact, shout, fast
+static_spawnpoint = 0,6,0
+pipeworks_delete_item_on_clearobject = false
+enable_damage = true
+
+# for that anchor
+max_forceloaded_blocks = 126
