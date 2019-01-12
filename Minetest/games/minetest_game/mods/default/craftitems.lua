@@ -121,7 +121,7 @@ minetest.register_on_player_receive_fields(function(player, formname, fields)
 			if inv:room_for_item("main", new_stack) then
 				inv:add_item("main", new_stack)
 			else
-				minetest.add_item(player:getpos(), new_stack)
+				minetest.add_item(player:get_pos(), new_stack)
 			end
 		else
 			stack:get_meta():from_table({ fields = data })
@@ -247,7 +247,7 @@ minetest.register_craftitem("default:skeleton_key", {
 				itemstack = new_stack
 			else
 				if inv:add_item("main", new_stack):get_count() > 0 then
-					minetest.add_item(user:getpos(), new_stack)
+					minetest.add_item(user:get_pos(), new_stack)
 				end -- else: added to inventory successfully
 			end
 
@@ -340,4 +340,10 @@ minetest.register_craftitem("default:obsidian_shard", {
 minetest.register_craftitem("default:flint", {
 	description = "Flint",
 	inventory_image = "default_flint.png"
+})
+
+minetest.register_craftitem("default:blueberries", {
+	description = "Blueberries",
+	inventory_image = "default_blueberries.png",
+	on_use = minetest.item_eat(2),
 })
