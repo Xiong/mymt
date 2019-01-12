@@ -1,7 +1,0 @@
-day_count = 1819631974
-game_time = 180158
-lbm_introduction_times_version = 1
-lbm_introduction_times = :doors:replace_doors_door_glass~0;:doors:replace_doors_door_obsidian_glass~0;:doors:replace_doors_door_steel~0;:doors:replace_doors_door_wood~0;:farming:start_nodetimer_cotton~0;:farming:start_nodetimer_wheat~0;default:3dtorch~0;default:convert_saplings_to_node_timer~0;default:upgrade_chest_locked_v2~0;default:upgrade_chest_v2~0;xpanes:gen2~0;moretrees:convert_existing_cocos_palms_to_regrow_coconuts~619;moretrees:restart_coconut_regrow_timer~619;moretrees:restart_dates_regrow_timer~619;pipeworks:give_back_old_filter_items~619;pipeworks:rotate_valves_flowsensors~619;
-last_clear_objects_time = 0
-time_of_day = 9000
-EnvArgsEnd
