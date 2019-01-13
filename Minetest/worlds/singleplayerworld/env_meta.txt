@@ -1,7 +1,0 @@
-day_count = 1819631987
-game_time = 769790
-lbm_introduction_times_version = 1
-lbm_introduction_times = :doors:replace_doors_door_glass~0;:doors:replace_doors_door_obsidian_glass~0;:doors:replace_doors_door_steel~0;:doors:replace_doors_door_wood~0;default:3dtorch~0;default:convert_saplings_to_node_timer~0;default:upgrade_chest_locked_v2~0;default:upgrade_chest_v2~0;xpanes:gen2~0;moretrees:convert_existing_cocos_palms_to_regrow_coconuts~9;moretrees:restart_coconut_regrow_timer~9;moretrees:restart_dates_regrow_timer~9;pipeworks:give_back_old_filter_items~9;bobblocks:convert~439446;homedecor:convert_bathroom_tiles~439446;homedecor:convert_beds~439446;homedecor:convert_chairs~439446;homedecor:convert_curtains~439446;homedecor:convert_desk_lamps~439446;homedecor:convert_lighting~439446;homedecor:convert_shutters~439446;anvil:hammer_ejection~441854;ilights:convert~441854;mesecons_pistons:replace_legacy_piston_down~441854;mesecons_pistons:replace_legacy_piston_up~441854;moreblocks:fix_split_stone_tile_alt_name_collision~441854;moreblocks:reduce_wood_tile_redundancy~441854;pipeworks:refund_node_breaker_pick~441854;technic_chests:fix_wooden_chests~441854;unifiedbricks:convert_brickblocks~441854;unifiedmesecons:convert~441854;
-last_clear_objects_time = 0
-time_of_day = 6000
-EnvArgsEnd
