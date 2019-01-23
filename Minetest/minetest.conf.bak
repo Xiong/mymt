@@ -1,29 +1,57 @@
-selected_world_path = /storage/emulated/0/Minetest/worlds/singleplayerworld
-screenH = 1080
-screenW = 1776
-name = Xiong
-gui_scaling = 0.85
-fast_move = false
-noclip = false
-remote_port = 30000
-address = red.cat5.tv
-show_debug = false
-debug_log_level = none
-world_config_selected_mod = 77
+screen_h = 1080
+screen_w = 1920
+menu_last_game = minetest
+address = 195.201.143.173
+name = xiong
+enable_shaders = false
+remote_port = 30001
+maintab_LAST = local
+autosave_screensize = false
+formspec_default_bg_color = (0,0,0)
+hud_hotbar_max_width = 0.9
+selected_world_path = /storage/emulated/0/Minetest/worlds/work003
+mainmenu_last_selected_world = 4
+server_announce = false
+enable_server = false
+mg_name = v7
 
-#    Controls length of day/night cycle.
-#    Examples: 72 = 20min, 360 = 4min, 1 = 24hour, 0 = day/night/whatever stays unchanged.
-#    type: int
+# likely to change
+creative_mode = false
+enable_damage = true
+noclip = false
+fast_move = false
+free_move = false
+
+
+# xiong stuff
+
+fixed_map_seed = 0987654321
+fov = 90
+aux1_descends = true
+fixed_virtual_joystick = true
+
+# Written to debug.txt:
+#  <nothing> (no logging)
+#  none (messages with no level)
+#  error
+#  warning
+#  action
+#  info
+#  verbose
+#
+#debug_log_level =
+debug_log_level = warning
+
+#   Controls length of day/night cycle.
+#   Examples: 72 = 20min, 360 = 4min, 1 = 24hour, 0 = day/night/whatever stays unchanged.
+#   type: int
 time_speed = 0
 
-free_move = false
-mg_name = v6
 main_menu_technical_settings = false
 basic_privs = interact, shout
-default_privs = interact, shout, fast
-static_spawnpoint = 0,6,0
+default_privs = interact, shout, fast, home
+static_spawnpoint = 0,9,0
 pipeworks_delete_item_on_clearobject = false
-enable_damage = true
+enable_minimap = true
 
-# for that anchor
-max_forceloaded_blocks = 126
+

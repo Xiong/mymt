@@ -1,6 +1,12 @@
 [server]
-
+Creatively Survival
 game.creatively-survival.online
 31000
+Mine, Build, get technical and socialise
+
+[server]
+
+195.201.143.173
+30001
 
 
